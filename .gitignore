@@ -4,3 +4,8 @@ target/
 *.iml
 .idea/
 .vscode/
+
+# Eclipse files
+.classpath
+.project
+.settings/
